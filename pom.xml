@@ -49,7 +49,7 @@
         <springfox-version>2.8.0</springfox-version>
         <wacodis-datasource-observer.version>3.0.0</wacodis-datasource-observer.version>
         <release-plugin.version>3.0.0-M1</release-plugin.version>
-        <cron-utils.version>9.1.3</cron-utils.version>
+        <cron-utils.version>9.1.6</cron-utils.version>
         <jts.version>1.17.1</jts.version>
     </properties>
 
