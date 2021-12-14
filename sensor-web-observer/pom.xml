@@ -4,7 +4,7 @@
 	<parent>
 		<artifactId>datasource-observer</artifactId>
 		<groupId>de.wacodis</groupId>
-		<version>3.0.1-SNAPSHOT</version>
+		<version>3.0.1</version>
 	</parent>
 
 	<artifactId>sensor-web-observer</artifactId>
