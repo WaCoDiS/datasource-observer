@@ -4,7 +4,7 @@
 
     <groupId>de.wacodis</groupId>
     <artifactId>datasource-observer</artifactId>
-    <version>3.0.1</version>
+    <version>3.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>WaCoDiS DatasourceObserver</name>
@@ -24,7 +24,7 @@
         <url>https://github.com/WaCoDiS/datasource-observer/</url>
         <connection>scm:git:git://github.com/WaCoDiS/datasource-observer.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/WaCoDiS/datasource-observer.git</developerConnection>
-        <tag>v3.0.1</tag>
+        <tag>v3.0.2</tag>
     </scm>
 
     <licenses>
@@ -46,7 +46,7 @@
         <spring-boot.version>2.0.4.RELEASE</spring-boot.version>
         <java.version>1.8</java.version>
         <springfox-version>2.8.0</springfox-version>
-        <wacodis-datasource-observer.version>3.0.1</wacodis-datasource-observer.version>
+        <wacodis-datasource-observer.version>3.0.2-SNAPSHOT</wacodis-datasource-observer.version>
         <release-plugin.version>3.0.0-M1</release-plugin.version>
         <cron-utils.version>9.1.6</cron-utils.version>
         <jts.version>1.17.1</jts.version>

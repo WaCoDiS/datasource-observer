@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>de.wacodis</groupId>
 		<artifactId>datasource-observer</artifactId>
-		<version>3.0.1</version>
+		<version>3.0.2-SNAPSHOT</version>
 	</parent>
 	<artifactId>dwd-observer</artifactId>
 	<name>WaCoDiS DWD Observer</name>
